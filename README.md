@@ -15,8 +15,6 @@ The Age Calculator App is a user-friendly tool designed to calculate and display
 
 ![Desktop/Laptop Screens](./screenshots/screenshot-1.png)
 
-![Mobile Screens](./screenshots/screenshot-2.png)
-
 ## Setup
 
 To use this component in your project, follow these steps:
